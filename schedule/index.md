@@ -8,9 +8,11 @@ has_children: true
 
 # Schedule Module
 
-The schedule module provides all the tools needed to manage the timeline projects.
+The Schedule module is a colllection of versatile tool designed to facilitate the management of project timelines, offering a suite of features to ensure efficient planning, tracking, and oversight. Key capabilities of the Schedule module include:
+Project Timeline Visualization: Users can create and visualize project timelines, including milestones, deadlines, and resource allocation, for a clear understanding of project progression.  The Schedule module serves as a centralized platform for managing project timelines and budgets.
 
-This includes the "Role Planner", "Crew Planner", and "Work Hours"
+
+The Role Planner, Crew Planner, and Work Hours sections within the schedule module provide a set of tools to manage project resources, crew schedules, and timesheet submissions. The Role Planner facilitates the creation and management of project roles and timelines, while the Crew Planner integrates role plans with crew schedules to identify conflicts and optimize resource allocation. Finally, the Work Hours section enables users to review, approve, or reject crew member timesheets, ensuring accurate record-keeping and efficient project management. Together, these components offer a streamlined approach to resource planning and oversight.
 
 
 ## [Role Planner]({{ 'role_planner' }})
